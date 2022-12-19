@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{94F71BB2-B365-95EC-DA2F-3EA7C234706B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/QuitBT.cs">
+    <Files>
+      <File FileName="Assets/MainBT.cs" Line="6" Column="19" />
+      <File FileName="Assets/QuitBT.cs" Line="23" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vr game" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="abf9878a-197b-4e58-b2de-bfcd02ae1f6b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
